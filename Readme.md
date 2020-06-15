@@ -13,6 +13,8 @@ certifique-se de ter o Node e o MySql instalado em sua máquina.
 
 após isso:
 
+0. entre nas pastas do frontend e do backend, abra o terminal e execute npm i ,para baixar as dependencias de cada projeto, pois foram feitos separadamente
+
 1. rode o script de criação de banco e tabelas que se encontra em backend/config/scripts
 
 2. na pasta raiz do projeto abra o terminal ou gitbash e execute o comando npm run server
