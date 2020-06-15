@@ -1,0 +1,9 @@
+# frontend
+frontend/node_modules
+frontend/coverage
+frontend/build
+#backend
+backend/node_modules
+backend/.env
+backend/logs
+

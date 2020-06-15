@@ -1,0 +1,13 @@
+{
+	"name": "AgendamentoApp",
+	"version": "1.0.0",
+	"description": "",
+	"main": "backend/index.js",
+	"scripts": {
+		"server": "cd backend && npm run dev",
+		"client": "cd frontend && npm start"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
