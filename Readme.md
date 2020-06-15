@@ -35,3 +35,12 @@ após isso:
 -   App Mobile do cliente
 -   Implementação de Swagger
 -   Implementação de Testes
+
+##### Prints
+
+
+![image](https://user-images.githubusercontent.com/37068857/84681722-f0a37780-af0a-11ea-83e7-e0213b512d25.png)
+
+![image](https://user-images.githubusercontent.com/37068857/84681929-44ae5c00-af0b-11ea-9e9c-4e69fd321b89.png)
+
+![image](https://user-images.githubusercontent.com/37068857/84682246-bedee080-af0b-11ea-90e1-53ff958858c9.png)
